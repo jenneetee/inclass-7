@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 //Group members: Mariam Omer, Jennifer Phan, Zoha Khundmiri
+//In Class Assignment # 7
 void main() {
   runApp(MyApp());
 }

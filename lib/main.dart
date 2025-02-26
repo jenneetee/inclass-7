@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//Group members: Jennifer Phan, Mariam Omer, Zoha Khundmiri
+//Group members: Mariam Omer, Jennifer Phan, Zoha Khundmiri
 void main() {
   runApp(MyApp());
 }

@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
 class MainScreen extends StatefulWidget {
   final VoidCallback toggleTheme;
   const MainScreen({Key? key, required this.toggleTheme}) : super(key: key);
-
+  
   @override
   _MainScreenState createState() => _MainScreenState();
 }
